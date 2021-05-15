@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing Hyde
-date: 2013-12-28 00:00:00 +0000
+date: 2013-12-28T00:00:00.000+00:00
 
 ---
 Hyde is a brazen two-column [hugo](https://gohugo.io) theme based on the [Jekyll](http://jekyllrb.com) theme of the same name.
@@ -26,3 +26,5 @@ Hyde is by preference a forward-thinking project. In addition to the latest vers
 Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/spf13/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
 
 Thanks!
+
+看 Hyde的readme文件，hyde其实有更多的功能点，只是文档中没有完全写出来而已。
